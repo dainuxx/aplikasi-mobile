@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppBM.Views.Bab1.SampleView1">
+
+    <ScrollView VerticalOptions="FillAndExpand">
+        <StackLayout HeightRequest="1500">
+            <Label Text="Label Judul" 
+                   FontSize="40" 
+                   HorizontalOptions="Center"/>
+            <Label x:Name="lblDetail" 
+                   Text="Label ini digunakan untuk menampilkan detail"
+                   FontSize="20" 
+                   HorizontalOptions="CenterAndExpand"/>
+            <Button x:Name="btnHello" 
+                    Text="Hello Button" 
+                    HorizontalOptions="Center"
+                    VerticalOptions="Fill" />
+            <Entry x:Name="entryHello" 
+                   Placeholder="Username" 
+                   VerticalOptions="Center"
+                   Keyboard="Text"/>
+            <Image x:Name="helloImg" 
+                   Source="monkey.png" 
+                   Aspect="AspectFit"
+                   HorizontalOptions="Center" 
+                   VerticalOptions="Fill"/>
+        </StackLayout>
+    </ScrollView>
+    
+</ContentPage>

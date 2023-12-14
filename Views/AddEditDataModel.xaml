@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppBM.Views.AddEditDataModel">
+
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness" Android="10,10,10,10"/>
+    </ContentPage.Padding>
+    
+    <ContentPage.Content>
+        <StackLayout Spacing="10" Padding="20">
+            <Entry x:Name="txtTitle" 
+                   Placeholder="Input Title"/>
+            <Entry x:Name="txtDescription" 
+                   Placeholder="Input Description"/>
+            
+            <Button x:Name="btnSave" 
+                    BackgroundColor="GreenYellow" 
+                    Clicked="Button_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

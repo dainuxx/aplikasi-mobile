@@ -1,0 +1,132 @@
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\bin\Debug\netstandard2.0\AppBM.deps.json
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\bin\Debug\netstandard2.0\AppBM.dll
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\bin\Debug\netstandard2.0\AppBM.pdb
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.dll
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.pdb
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\BindingToDataModel.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Contacts\DetailPage.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Contacts\MainModalPage.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\ActionSheetPage.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\AlertPage.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\ModalPage.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\ModalSecondPage.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\NavigationPage1.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\NavigationPage2.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\PopupMainPage.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\PopupMenu.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\MainPageMaster.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\UsersData\UsersModel.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.Properties.Resources.resources
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Contacts\AddEditContacts.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\AddEditDataModel.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\UsersData\AddEditUsersModel.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Register.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab1\MainPage.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab2\GridLayout.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\DefaultPageDataModel.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab1\SampleView1.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab2\AbsoluteLayout.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab2\ListViewBab2.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab2\RelativeLayout.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab2\SampleStackLayout.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\ListViewBab4.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab3\BindingListString.xaml.g.cs
+C:\Users\ASUS\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab3\ListViewBab3.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\bin\Debug\netstandard2.0\AppBM.deps.json
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\bin\Debug\netstandard2.0\AppBM.dll
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\bin\Debug\netstandard2.0\AppBM.pdb
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.Properties.Resources.resources
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Register.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\AddEditDataModel.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab1\MainPage.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab1\SampleView1.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab2\AbsoluteLayout.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab2\GridLayout.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab2\ListViewBab2.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab2\RelativeLayout.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab2\SampleStackLayout.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab3\BindingListString.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab3\ListViewBab3.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\ActionSheetPage.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\AlertPage.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\ListViewBab4.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\ModalPage.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\ModalSecondPage.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\NavigationPage1.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\NavigationPage2.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\PopupMainPage.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\PopupMenu.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\BindingToDataModel.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Contacts\AddEditContacts.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Contacts\DetailPage.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Contacts\MainModalPage.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\DefaultPageDataModel.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\MainPageMaster.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\UsersData\AddEditUsersModel.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\UsersData\UsersModel.xaml.g.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.AssemblyInfo.cs
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.dll
+C:\Users\HP\source\repos\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.pdb
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\bin\Debug\netstandard2.0\AppBM.deps.json
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\bin\Debug\netstandard2.0\AppBM.dll
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\bin\Debug\netstandard2.0\AppBM.pdb
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.csprojAssemblyReference.cache
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.Properties.Resources.resources
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.csproj.GenerateResource.cache
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Register.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\AddEditDataModel.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab1\MainPage.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab1\SampleView1.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab2\AbsoluteLayout.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab2\GridLayout.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab2\ListViewBab2.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab2\RelativeLayout.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab2\SampleStackLayout.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab3\BindingListString.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab3\ListViewBab3.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\ActionSheetPage.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\AlertPage.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\ListViewBab4.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\ModalPage.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\ModalSecondPage.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\NavigationPage1.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\NavigationPage2.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\PopupMainPage.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Bab4\PopupMenu.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\BindingToDataModel.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Contacts\AddEditContacts.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Contacts\DetailPage.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\Contacts\MainModalPage.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\DefaultPageDataModel.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\MainPageMaster.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\UsersData\AddEditUsersModel.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\Views\UsersData\UsersModel.xaml.g.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.csproj.CoreCompileInputs.cache
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.AssemblyInfoInputs.cache
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.AssemblyInfo.cs
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.dll
+C:\Users\Asus Tuf Gaming\OneDrive\Dokumen\AppBM\AppBM\AppBM\obj\Debug\netstandard2.0\AppBM.pdb
